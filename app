@@ -1,2 +1,2 @@
-this is to check how text works in the git hub account 
-now this file will be added to another branch to to make merge conflict
+this is to check  ajgcalsihc how text works in the git hub account 
+now this file will be added ,sjcbajkbv a to another branch to to make merge conflict
